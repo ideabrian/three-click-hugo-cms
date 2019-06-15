@@ -7,6 +7,7 @@ description: >-
 
   I'm building out this program to help myself figure out how the code puzzle
   pieces fit together.
+image: /img/about-reinvest-profits.jpg
 ---
 ## Start small
 Pick one thing.
